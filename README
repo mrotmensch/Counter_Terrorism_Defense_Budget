@@ -10,7 +10,9 @@
 This was the code in the undergraduate applied math thesis "Mathematical Models for Determining a Counter-Terrorism Defense Budget" and is meant to be read alongside it.
 
 The repository contains two ipython notebooks. 
-The first is the ipython notebook "Simulations" that was used to create the simulations in chapter 4. This notebook contains simualtions for both the Exponential Distribution and the Power Law distribution.
-The second notebook, "Real_Data", contains code for scrapping wranggling the appropriate data used in the project, as well as the functions used to determine the projected "reasonable budget" under various conditions.
+The first is the ipython notebook "Simulations" that was used to create the simulations in chapter 4. This notebook
+contains simualtions for both the Exponential Distribution and the Power Law distribution.
+The second notebook, "Real_Data", contains code for scrapping wranggling the appropriate data used in the project, as well
+as the functions used to determine the projected "reasonable budget" under various conditions.
 
 
